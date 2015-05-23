@@ -1509,19 +1509,21 @@ hr {
 	font: 15px/21px "raleway-heavy", sans-serif;
 	margin: 0;
 	color: white;
+	opacity: 1;
 	word-wrap: break-word;
 }
 .item .item-wrap .portfolio-item-meta p {
 	font: 14px/18px "raleway-semibold", sans-serif;
 	color: #fbcab3;
 	margin: 0;
+	opacity: 1;
 }
 
 /* on item hover */
 .item:hover .overlay {
 	filter: alpha(opacity=100);
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
-	opacity: 1;
+	opacity: .85;
 	zoom: 1;
 }
 .item:hover .portfolio-item-meta {
