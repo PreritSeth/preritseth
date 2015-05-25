@@ -817,25 +817,25 @@ header .logo {
 }
 header .logo a {
 	display: block;
-	margin: 0 35px 0 0;
+	margin: 0 37px 0 0;
 	padding: 0;
 	border: none;
 	outline: none;
 	font: 0/0 a;
 	text-shadow: none;
 	color: transparent;
-	width: 134px;
-	height: 30px;
+	width: 144px;
+	height: 23px;
 	background-repeat: no-repeat;
 	background-position: 0 0;
-	background-image: url("../images/prerit-logo.png");
+	background-image: url("../images/prerit-logo-2.png");
 }
 @media (-webkit-min-device-pixel-ratio:2), (min-resolution:192dpi) {
 	header .logo a {
-		background-image: url("../images/logo-@2x.png");
+		background-image: url("../images/prerit-logo-2-@x.png");
 		-webkit-background-size: 126px 12px;
 		-moz-background-size: 126px 12px;
-		background-size: 126px 12px;
+		background-size: 144px 23px;
 	}
 }
 .opaque {
