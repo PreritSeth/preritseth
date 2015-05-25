@@ -817,7 +817,7 @@ header .logo {
 }
 header .logo a {
 	display: block;
-	margin: 0 37px 0 0;
+	margin: 2px 37px 0 0;
 	padding: 0;
 	border: none;
 	outline: none;
@@ -833,7 +833,7 @@ header .logo a {
 @media (-webkit-min-device-pixel-ratio:2), (min-resolution:192dpi) {
 	header .logo a {
 		background-image: url("../images/prerit-logo-2-@x.png");
-		-webkit-background-size: 144px 23px;
+		-webkit-background-size: 1px 23px;
 		-moz-background-size: 144px 23px;
 		background-size: 144px 23px;
 	}

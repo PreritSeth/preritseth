@@ -47,6 +47,11 @@
 	header {	background: #12151b;	}
 	header {	height: 60px; }
 	header .logo {	margin: 24px 0 0 0; }
+	header .logo a 
+	{ 
+		margin-right: 28px;
+		margin-top: -5px;
+	}
 	
 	/* mobile navigation */
 	#nav-wrap {
