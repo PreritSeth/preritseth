@@ -289,7 +289,11 @@
 	}
 
 	/* hero section */
-	#hero { padding-bottom: 66px;	}
+	#hero { 
+		padding-bottom: 66px;
+		background-image: url("../images/prerit-bg.jpg") no-repeat center center fixed;;
+
+		}
 
 	/* service section */
 	.service-list .bgrid {
