@@ -291,6 +291,7 @@
 	/* hero section */
 	#hero { 
 		padding-bottom: 66px;
+		background: #95a5a6 url("../images/mobile-bg.jpg") no-repeat center center fixed;
 
 		}
 
