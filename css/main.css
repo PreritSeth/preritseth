@@ -2002,3 +2002,14 @@ hr {
 .more-projects .portfolio-wrapper {
 	text-align: left;
 }
+
+.odometer {
+	font-size: 48px;
+	color: #f26522;
+	font: "Raleway-Bold", Serif;
+}
+
+#afterText .p
+{
+	font-size: 48px;
+}
