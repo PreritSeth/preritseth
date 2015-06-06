@@ -58,7 +58,7 @@ a, a:visited {
 	-ms-transition: all 0.3s ease-in-out;
 	transition: all 0.3s ease-in-out;
 }
-a:hover, a:focus {
+a:hover {
 	color: #F79A6F;
 }
 
