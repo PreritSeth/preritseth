@@ -1161,9 +1161,9 @@ hr {
 ---------------------------------------------------------------------- */
 #page-title {
 	background: #12151b url(../images/ny-bg.jpg) no-repeat center center fixed;
-	-webkit-background-size: cover;
-	-moz-background-size: contain;
-	background-size: cover;
+	-webkit-background-size: cover !important;
+	-moz-background-size: cover !important;
+	background-size: cover !important;
 	padding-top: 108px;
 	padding-bottom: 60px;
 	text-align: center;
@@ -1283,8 +1283,8 @@ hr {
 #hero {
 	background: url("../images/ny-bg.jpg") no-repeat center center fixed;
 	-webkit-background-size: cover !important;
-	-moz-background-size: cover !important;
-	background-size: cover !important;
+	-moz-background-size: contain;
+	background-size: contain;
 	padding-top: 66px;
 	padding-bottom: 90px;
 	width: 100%;
