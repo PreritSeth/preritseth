@@ -291,7 +291,8 @@
 	/* hero section */
 	#hero { 
 		padding-bottom: 66px;
-		background: url(../images/mobile-bg.png) no-repeat center center fixed;
+		background: url(../images/ny-bg.jpg) no-repeat center center fixed;
+		height: 100%;
 
 		}
 
