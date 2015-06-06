@@ -1161,9 +1161,9 @@ hr {
 ---------------------------------------------------------------------- */
 #page-title {
 	background: #12151b url(../images/ny-bg.jpg) no-repeat center center fixed;
-	-webkit-background-size: cover !important;
-	-moz-background-size: contain !important;
-	background-size: 100% !important;
+	-webkit-background-size: cover;
+	-moz-background-size: contain;
+	background-size: cover;
 	padding-top: 108px;
 	padding-bottom: 60px;
 	text-align: center;
