@@ -292,10 +292,6 @@
 	#hero { 
 		padding-bottom: 66px;
 		background: url(../images/ny-bg.jpg) no-repeat center center fixed;
-		height: 100%;
-		-webkit-background-size: 100%;
-		-moz-background-size: 100%;
-		background-size: 100%;
 
 		}
 
