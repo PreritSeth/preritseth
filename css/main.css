@@ -51,7 +51,7 @@ body {
 /* Links
 ---------------------------------------------------------------------- */
 a, a:visited {
-	color: #f26522;
+	color: #D8D3D0;
 	-moz-transition: all 0.3s ease-in-out;
 	-o-transition: all 0.3s ease-in-out;
 	-webkit-transition: all 0.3s ease-in-out;
@@ -59,7 +59,7 @@ a, a:visited {
 	transition: all 0.3s ease-in-out;
 }
 a:hover, a:focus {
-	color: black;
+	color: rgb(247, 154, 111);
 }
 
 /* Typography
@@ -2023,4 +2023,15 @@ hr {
 	border-radius: 150px;
 	-webkit-border-radius: 150px;
 	-moz-border-radius: 150px;
+}
+
+.contact-prerit{
+	font-size: 5em;
+	letter-spacing: 6px;
+	font-color: white;
+	text-align: center;
+}
+
+#contact a {
+	font-color: white;
 }
