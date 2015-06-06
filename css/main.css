@@ -1163,7 +1163,7 @@ hr {
 	background: #12151b url(../images/ny-bg.jpg) no-repeat center center fixed;
 	-webkit-background-size: cover !important;
 	-moz-background-size: contain !important;
-	background-size: cover !important;
+	background-size: 100% !important;
 	padding-top: 108px;
 	padding-bottom: 60px;
 	text-align: center;
