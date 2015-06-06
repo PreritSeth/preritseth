@@ -202,6 +202,7 @@ hr {
 	clear: both;
 	margin: 23px 0 12px;
 	height: 0;
+	padding-bottom: 20px;
 }
 
 /* Lists
@@ -430,7 +431,7 @@ button.round, .button.round {
 	background-clip: padding-box;
 }
 button.stroke, .button.stroke {
-	background: transparent !important;
+	background: rgba(244, 123, 65, 0.11) !important;
 	border: 3px solid transparent;
 }
 button.full-width, .button.full-width {
@@ -1138,11 +1139,12 @@ hr {
 	text-align: center;
 }
 .section-head h1 {
-	font: 15px/24px "raleway-heavy", sans-serif;
+	font: 24px/26px "raleway-heavy", sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 2.5px;
 	color: #252525;
 	margin-bottom: 18px;
+	letter-spacing: 6px;
 }
 .section-head h1 span {
 	color: #f26522;
@@ -1158,7 +1160,7 @@ hr {
 /* page title
 ---------------------------------------------------------------------- */
 #page-title {
-	background: #12151b url(../images/prerit-bg.jpg) no-repeat center center fixed;
+	background: #12151b url(../images/ny-bg.jpg) no-repeat center center fixed;
 	-webkit-background-size: cover !important;
 	-moz-background-size: cover !important;
 	background-size: cover !important;
@@ -1279,7 +1281,7 @@ hr {
 /* k. Hero Section
 /* =================================================================== */
 #hero {
-	background: #95a5a6 url("../images/prerit-bg.jpg") no-repeat center center fixed;
+	background: #95a5a6 url("../images/ny-bg.jpg") no-repeat center center fixed;
 	-webkit-background-size: cover !important;
 	-moz-background-size: cover !important;
 	background-size: cover !important;
@@ -1369,7 +1371,7 @@ hr {
 	color: white;
 	letter-spacing: -1px;
 	margin-bottom: 36px;
-	text-shadow: 0 0px 5px rgba(0, 0, 0, 0.5);
+	text-shadow: 0px 3px 5px rgba(0, 0, 0, 0.3);
 }
 #hero-slider .flex-caption h1 span, 
 #hero-slider .flex-caption h1 a {
@@ -1568,7 +1570,7 @@ hr {
 	margin: 0 auto;
 }
 .service-list h3 {
-	font: 16px/24px "raleway-heavy", sans-serif;
+	font: 22px/50px "raleway-bold", sans-serif;
 	padding: 0;
 }
 .service-list p {
@@ -2012,4 +2014,12 @@ hr {
 #afterText .p
 {
 	font-size: 48px;
+}
+
+.circle-profile {
+	width: 200px;
+	height: 200px;
+	border-radius: 150px;
+	-webkit-border-radius: 150px;
+	-moz-border-radius: 150px;
 }
