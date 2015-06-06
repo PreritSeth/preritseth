@@ -284,7 +284,10 @@
 
 	/* footer styles */
 	footer .footer-about { padding-right: 10px; }
-	footer .copyright { padding-left: 10px; }
+	footer .copyright { 
+		padding-left: 10px;
+		font-size: 12px;
+	}
 
 	/* common and shared styles */
 	.section-head p {
@@ -382,7 +385,7 @@
 		margin-bottom: 12px;	
 	}
 	.contact-prerit {
-		font-size: 2.3em;
+		font-size: 1.85em;
 	}
 
 } /* 480 */
@@ -411,7 +414,7 @@
 		padding-right: 20px;
 	}
 	.contact-prerit{
-		font-size: 2.3em;
+		font-size: 1.3em;
 	}
 
 } /* 460 */
@@ -445,7 +448,9 @@
 
 	/* footer styles */
 	footer .footer-about { padding-right: 0; }
-	footer .copyright { padding-left: 0; }
+	footer .copyright { 
+		padding-left: 0;
+		font-size: 10px;
 
 	/* hero section */
 	#hero-slider {	width: 100%; }
@@ -464,7 +469,8 @@
 		padding-right: 30px;
 	}
 	.contact-prerit{
-		font-size: 2em;
+		font-size: 1.3em;
+
 	}
 
 } /* 400 */
