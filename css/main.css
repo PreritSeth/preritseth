@@ -2039,3 +2039,11 @@ hr {
 #contact a {
 	font-color: white;
 }
+
+.profile {
+	border-radius: 50%;
+}
+
+.avatar {
+	display: inline-block;
+}
