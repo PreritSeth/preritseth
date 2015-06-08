@@ -51,7 +51,7 @@ body {
 /* Links
 ---------------------------------------------------------------------- */
 a, a:visited {
-	color: #D8D3D0;
+	color: #F26522;
 	-moz-transition: all 0.3s ease-in-out;
 	-o-transition: all 0.3s ease-in-out;
 	-webkit-transition: all 0.3s ease-in-out;
@@ -2037,7 +2037,11 @@ hr {
 }
 
 #contact a {
-	font-color: white;
+	color: #D8D3D0;
+}
+
+#contact a:hover{
+	color: #F79A6F;
 }
 
 .profile {
