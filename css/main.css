@@ -2079,24 +2079,21 @@ hr {
 .facebook-icon
 {
 	background-image: url("../images/social/facebook.png");
-	background-repeat-x: no-repeat;
-	background-repeat-y: no-repeat;
+	background-repeat: no-repeat;
 	padding: 0px 40px 0px;
 }
 
 .twitter-icon
 {
 	background-image: url("../images/social/twitter.png");
-	background-repeat-x: no-repeat;
-	background-repeat-y: no-repeat;
+	background-repeat: no-repeat;
 	padding: 0px 40px 0px;
 }
 
 .tumblr-icon
 {
 	background-image: url("../images/social/tumblr.png");
-	background-repeat-x: no-repeat;
-	background-repeat-y: no-repeat;
+	background-repeat: no-repeat;
 	padding: 0px 40px 0px;
 }
 
@@ -2104,6 +2101,5 @@ hr {
 {
 	background-image: url("../images/social/youtube.png");
 	background-repeat-x: no-repeat;
-	background-repeat-y: no-repeat;
 	padding: 0px 40px 0px;
 }
