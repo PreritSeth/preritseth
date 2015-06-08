@@ -51,7 +51,7 @@ body {
 /* Links
 ---------------------------------------------------------------------- */
 a, a:visited {
-	color: #D8D3D0;
+	color: #F26522;
 	-moz-transition: all 0.3s ease-in-out;
 	-o-transition: all 0.3s ease-in-out;
 	-webkit-transition: all 0.3s ease-in-out;
@@ -1047,7 +1047,7 @@ footer {
 footer a, footer a:visited {
 	color: #a43b0a;
 }
-footer a:hover, footer a:focus {
+footer a:hover, footer a{
 	color: white;
 }
 footer h3 {
@@ -2037,7 +2037,11 @@ hr {
 }
 
 #contact a {
-	font-color: white;
+	color: #D8D3D0;
+}
+
+#contact a:hover{
+	color: #F79A6F;
 }
 
 .profile {
@@ -2046,4 +2050,60 @@ hr {
 
 .avatar {
 	display: inline-block;
+}
+
+#centered-stats { width: 100%; overflow: hidden; }
+#centered-stats ul { list-style: none; position: relative; float: left; display: block; left: 50%; }
+#centered-stats ul li { position: relative; float: left; display: block; right: 50%; }
+
+.uk-partners {
+	box-shadow: 4px 4px 4px #888888;
+}
+.uk-partners:hover {
+	box-shadow: 8px 8px 8px #888888;
+}
+
+.social-list {
+	list-style-type: none;
+}
+
+.social-list a {
+	color: black;
+	font-family: "raleway-regular";
+	font-size: 16px;
+}
+.social-list a:hover {
+	color: #f26522;
+}
+
+.facebook-icon
+{
+	background-image: url("../images/social/facebook.png");
+	background-repeat-x: no-repeat;
+	background-repeat-y: no-repeat;
+	padding: 0px 40px 0px;
+}
+
+.twitter-icon
+{
+	background-image: url("../images/social/twitter.png");
+	background-repeat-x: no-repeat;
+	background-repeat-y: no-repeat;
+	padding: 0px 40px 0px;
+}
+
+.tumblr-icon
+{
+	background-image: url("../images/social/tumblr.png");
+	background-repeat-x: no-repeat;
+	background-repeat-y: no-repeat;
+	padding: 0px 40px 0px;
+}
+
+.youtube-icon
+{
+	background-image: url("../images/social/youtube.png");
+	background-repeat-x: no-repeat;
+	background-repeat-y: no-repeat;
+	padding: 0px 40px 0px;
 }
