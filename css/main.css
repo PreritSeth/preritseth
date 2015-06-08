@@ -2100,6 +2100,6 @@ hr {
 .youtube-icon
 {
 	background-image: url("../images/social/youtube.png");
-	background-repeat-x: no-repeat;
+	background-repeat: no-repeat;
 	padding: 0px 40px 0px;
 }
