@@ -438,7 +438,8 @@
 		font: 12px/18px "raleway-semibold", sans-serif;
 	}
 	.contact-prerit{
-		font-size: 1.4em 	;
+		font-size: 1.4em ;
+		letter-spacing: 3px;
 	}
 
 } /* 420 */
