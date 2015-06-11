@@ -1047,9 +1047,7 @@ footer {
 footer a, footer a:visited {
 	color: #a43b0a;
 }
-footer a:hover, footer a{
-	color: white;
-}
+
 footer h3 {
 	font: 13px/24px "raleway-bold", sans-serif;
 	margin-bottom: 0;
