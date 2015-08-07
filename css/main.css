@@ -2106,7 +2106,10 @@ hr {
 .linkedin-btn {
     width: 300px;
     background: #00a0dc;
-    font-size: 24px;
+    font-size: 18px;
+    font-family: Ubuntu;
+    letter-spacing: 4px;
+    text-transform: uppercase;
     padding: 15px 25px;
     border-radius: 90px;
 }
